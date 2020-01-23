@@ -16,12 +16,17 @@ module.exports = {
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/app-generator/gatsby-html5up-aerial',
+      url: 'https://github.com/einargudnig',
     },
     {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/webappseed',
+      icon: 'fa-at',
+      name: 'Mail',
+      url: 'mailto:einargudnig@gmail.com',
+    },
+    {
+      icon: 'fa-linkedin',
+      name: 'Linked-in',
+      url: 'https://www.linkedin.com/in/einar-gudjonsson/'
     }
   ],
 };

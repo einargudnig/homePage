@@ -18,7 +18,7 @@ const Layout = ({ children, darkText }) => (
     render={data => (
       <>
         <Helmet
-          title={data.site.siteMetadata.title}
+          title='Hi!'
           meta={[
             { name: 'description', content: 'Aerial' },
             { name: 'keywords', content: 'site, web' },
