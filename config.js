@@ -27,6 +27,11 @@ module.exports = {
       icon: 'fa-linkedin',
       name: 'Linked-in',
       url: 'https://www.linkedin.com/in/einar-gudjonsson/'
+    },
+    {
+      icon: 'fa-globe',
+      name: 'Website',
+      url: 'https://www.einargudni.com/'
     }
   ],
 };
